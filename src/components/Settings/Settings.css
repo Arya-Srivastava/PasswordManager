@@ -1,0 +1,30 @@
+.App {
+    background-color: white;
+  
+    background-image: url();
+  
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+  
+    background-position: center;
+  
+    background-repeat: no-repeat;
+  
+    background-size: cover;
+  }
+  .Background{
+    background-color:white;
+  
+    background-image: url();
+  
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+  
+    background-position: center;
+  
+    background-repeat: no-repeat;
+  
+    background-size: cover;
+  }

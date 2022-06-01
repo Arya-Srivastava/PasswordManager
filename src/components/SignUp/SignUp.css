@@ -1,0 +1,27 @@
+.App {
+  background-color: #444;
+
+  background-image: url(/public/backgroundImg.png);
+
+  height: 100%;
+
+  /* Center and scale the image nicely */
+
+  background-position: center;
+
+  background-repeat: no-repeat;
+
+  background-size: cover;
+}
+
+#signUpForm {
+  /* background-color:rgb(0, 88, 76); */
+
+  background-color: #e6f1fd;
+
+  width: 30rem;
+}
+
+#security {
+  background-color: #e6f1fd;
+}

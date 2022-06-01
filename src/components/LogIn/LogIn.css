@@ -1,0 +1,27 @@
+.Background {
+  background-color: #444;
+
+  background-image: url(/public/backgroundImg.png);
+
+  height: 100%;
+
+  /* Center and scale the image nicely */
+
+  background-position: center;
+
+  background-repeat: no-repeat;
+
+  background-size: cover;
+}
+
+#loginForm {
+  width: 26rem;
+
+  background-color: #e6f1fd;
+}
+
+#cardBody {
+  padding-left: 1rem;
+
+  padding-right: 1rem;
+}
